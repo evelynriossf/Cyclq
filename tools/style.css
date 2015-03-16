@@ -11,12 +11,13 @@ html {
 }
 
 
-html,body{
+html,body,a{
 margin:0;
 padding:0;
 font-family: Helvetica Neue, Helvetica, Arial;
 color: #ffffff;
 height: 100%;
+text-decoration: none;
 }
 
 #transy{

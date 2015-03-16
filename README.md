@@ -1,2 +1,2 @@
 # Cyclq
-Cyclq coming soon site
+Cyclq website
